@@ -1,6 +1,6 @@
 baseURL: https://vaclavsova.github.io/vs_web/
 languageCode: en-us
-copytight: "Copyright 2024 Vaclav Sova"
+copyright: "Copyright 2024 Vaclav Sova"
 title: Vaclav Sova
 theme: ["PaperMod"]
 
